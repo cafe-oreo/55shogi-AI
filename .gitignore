@@ -1,0 +1,32 @@
+# Visual Studio cache
+.vs/
+.vscode/
+
+# Build directories
+build/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Compiled binaries
+*.exe
+*.dll
+*.pdb
+*.lib
+*.obj
+
+# Logs and temporary
+*.log
+*.tmp
+
+# Personal folders
+Ayane/
+lecture/
+
+# System
+.DS_Store
+Thumbs.db
