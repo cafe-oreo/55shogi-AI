@@ -45,19 +45,11 @@ Use the corresponding executable name on your platform if it differs.
 ## Project structure
 
 ```text
-MICS2_3A/
-├── .vs/ # Visual Studio workspace files
-├── .vscode/ # VS Code settings
-├── Ayane/ # Local resources / personal data (optional)
-├── build/ # Build output directory
-├── docs/ # Documentation, reports, notes
-├── lecture/ # Assignment and lecture material
-├── obj/ # Object files
-├── script/ # Helper scripts (build, run, etc.)
-├── source/ # C++ source code for the AI
-│ └── ... # main.cpp and other implementation files
-├── .gitignore
-├── CppProperties.json # VS Code C++ configuration
-├── mics2_3a.sln # Visual Studio solution
-└── README.md
+mics2_3a/
+├── docs/          # Documentation
+├── script/        # Helper scripts
+├── source/        # C++ source code
+├── mics2_3a.sln   # Visual Studio solution file
+└── README.md      # Project description
+
 ```
